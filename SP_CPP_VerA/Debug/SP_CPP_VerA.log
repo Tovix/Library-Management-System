@@ -1,0 +1,5 @@
+﻿  SP_CPP_VerA.cpp
+  test.cpp
+  Generating Code...
+N:\backup\projects\SP_CPP_VerA\SP_CPP_VerA\SP_CPP_VerA.cpp(667): warning C4715: 'user_login': not all control paths return a value
+  SP_CPP_VerA.vcxproj -> N:\backup\projects\SP_CPP_VerA\Debug\SP_CPP_VerA.exe
